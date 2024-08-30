@@ -1,1 +1,1 @@
-# Tool_for semiautomated_segmentation_using_clustering_withEDX_Anusha
+# Tool for semiautomated segmentation using clustering withEDX 
