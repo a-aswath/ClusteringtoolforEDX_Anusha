@@ -1,1 +1,1 @@
-# Tool for semi automated segmentation using clustering with EDX 
+# Tool for automated segmentation using clustering with EDX 
